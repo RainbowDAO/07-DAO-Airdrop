@@ -16,7 +16,7 @@ Submission address directory:
 http://www.rainbowdao.io/project
 
 Project demo website:
-https://airdrop.rainbowdao.io/
+https://airdrop.rainbowdao.io/#/
 
 GitHub repository :
 https://github.com/RainbowDAO/07-DAO-Airdrop
